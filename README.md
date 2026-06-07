@@ -106,7 +106,7 @@ Currently finishing the Applied Programmer track, graduating 2026. I'm not a gen
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kirilov07&theme=darkhub&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kirilov07&theme=onedark&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
