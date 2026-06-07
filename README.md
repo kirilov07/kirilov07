@@ -6,11 +6,13 @@
 
 📍 Dupnica, Bulgaria &nbsp;|&nbsp; 🎓 Graduating 2026
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kirilov07.kirilov07&left_color=grey&right_color=blue)
+
 </div>
 
 ---
 
-## 🛠️ About Me:
+## 🛠️ About Me
 
 I design systems where embedded hardware and AI inference work as one. My work spans edge computer vision on NVIDIA Jetson, real-time sensor and relay integration on Arduino, and the backend services that tie everything together — from serial firmware bridges to REST APIs serving a touchscreen UI.
 
@@ -23,13 +25,13 @@ Currently finishing the Applied Programmer track, graduating 2026. I'm not a gen
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kikokirilov207@gmail.com)
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 **Languages**
 
@@ -86,7 +88,7 @@ Currently finishing the Applied Programmer track, graduating 2026. I'm not a gen
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -100,14 +102,47 @@ Currently finishing the Applied Programmer track, graduating 2026. I'm not a gen
 
 ---
 
-## 🚀 Featured Projects:
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kirilov07&theme=darkhub&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kirilov07&theme=github-compact&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/kirilov07/kirilov07/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 | Project | Description |
 |---------|-------------|
 | [S.Y.N.A.P.S.E](https://github.com/kirilov07/S.Y.N.A.P.S.E) | 🚧 AI aromatherapy system — Jetson Orin Nano + Arduino Mega, YOLOv8 + DeepFace, 8 diffusers, 5 operating modes |
+| [arduino-projects](https://github.com/kirilov07/arduino-projects) | 35 embedded projects — sensors, actuators, communication, advanced PID/MIDI/CNC |
+| [cpp-data-structures](https://github.com/kirilov07/cpp-data-structures) | Core data structures from scratch — linked list, BST, heap, hash map, graph with BFS/DFS/Dijkstra |
+| [design-patterns-cpp](https://github.com/kirilov07/design-patterns-cpp) | C++ design patterns with embedded context — state machine, observer, command, factory |
+| [serial-dashboard](https://github.com/kirilov07/serial-dashboard) | Live terminal dashboard for Arduino serial data — sparklines, min/max, auto-reconnect |
+| [leetcode](https://github.com/kirilov07/leetcode) | Problems 1–100 solved in Python, C#, and C++ |
 | [ai-vision](https://github.com/kirilov07/ai-vision) | Real-time object detection, emotion recognition, and image processing — YOLOv8, DeepFace, OpenCV |
-| [arduino-projects](https://github.com/kirilov07/arduino-projects) | Hands-on embedded systems — ultrasonic, DHT22, servo, relay, IR sensor with code and wiring docs |
-| [leetcode](https://github.com/kirilov07/leetcode) | Algorithm and data structure solutions in Python and C# |
 
 ---
 
