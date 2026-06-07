@@ -4,105 +4,102 @@
 
 ### Embedded Systems & AI Engineer — building intelligent hardware
 
-[![Email](https://img.shields.io/badge/kikokirilov207%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kikokirilov207@gmail.com)
-&nbsp;
-[![Location](https://img.shields.io/badge/Bobov%20Dol%2C%20Bulgaria-0078D4?style=flat-square&logo=googlemaps&logoColor=white)](#)
+📍 Bobov Dol, Bulgaria &nbsp;|&nbsp; 🎓 Graduating 2026
 
 </div>
 
 ---
+
+## 🛠️ About Me:
 
 I design systems where embedded hardware and AI inference work as one. My work spans edge computer vision on NVIDIA Jetson, real-time sensor and relay integration on Arduino, and the backend services that tie everything together — from serial firmware bridges to REST APIs serving a touchscreen UI.
 
 Currently finishing the Applied Programmer track, graduating 2026. I'm not a generic full-stack developer: the hardware-plus-AI combination is where I operate.
 
+- 🔭 Currently building **S.Y.N.A.P.S.E** — AI-driven aromatherapy with edge inference on Jetson Orin Nano
+- 🧠 Working with **YOLOv8 + DeepFace** for real-time multi-model inference
+- ⚡ Passionate about **edge AI, embedded control, and hardware-software integration**
+- 📬 Reach me at **kikokirilov207@gmail.com**
+
 ---
 
-## Stack
+## 🌐 Socials:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kikokirilov207@gmail.com)
+
+---
+
+## 💻 Tech Stack:
 
 **Languages**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **AI / Computer Vision**
 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
+![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=76B900)
 
 **Embedded / Hardware**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![GStreamer](https://img.shields.io/badge/GStreamer-FF0000?style=flat-square&logo=gstreamer&logoColor=white)
-![pyserial](https://img.shields.io/badge/pyserial-3776AB?style=flat-square&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![GStreamer](https://img.shields.io/badge/GStreamer-FF0000?style=for-the-badge&logoColor=white)
+![pyserial](https://img.shields.io/badge/pyserial-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Backend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/uvicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **Integrations & Tools**
 
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Google OAuth](https://img.shields.io/badge/Google%20OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **Certifications**
 
-![SoftUni C# Basic](https://img.shields.io/badge/SoftUni-C%23%20Basic-8A2BE2?style=flat-square)
-![SoftUni C# Fundamentals](https://img.shields.io/badge/SoftUni-C%23%20Fundamentals-8A2BE2?style=flat-square)
+![SoftUni](https://img.shields.io/badge/SoftUni-C%23%20Basic-8A2BE2?style=for-the-badge)
+![SoftUni](https://img.shields.io/badge/SoftUni-C%23%20Fundamentals-8A2BE2?style=for-the-badge)
 
 ---
 
-## What I focus on
-
-**Edge AI inference on constrained devices** — deploying YOLOv8 and DeepFace models directly on NVIDIA Jetson Orin Nano; no cloud round-trips, sub-100 ms latency in production.
-
-**Hardware-software integration** — serial bridges between Jetson and Arduino, relay and sensor control, real-time feedback loops where firmware state drives application logic.
-
-**Real-time computer vision** — multi-model pipelines (object detection + emotion recognition running concurrently), GStreamer-accelerated camera capture, CUDA inference.
-
-**IoT architecture** — multi-device systems with FastAPI backends, touchscreen UIs, and hardware control layers designed for reliability in unattended operation.
-
----
-
-## Featured projects
-
-| Project | What it is |
-|---------|-----------|
-| [S.Y.N.A.P.S.E](https://github.com/kirilov07/S.Y.N.A.P.S.E) | 🚧 AI aromatherapy system — Jetson Orin Nano + Arduino Mega, YOLOv8 + DeepFace, 8 diffusers, 5 operating modes |
-
-> More projects coming — currently migrating source from hardware devices.
-
----
-
-## GitHub stats
+## 📊 GitHub Stats:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kirilov07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirilov07&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirilov07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirilov07&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
-<img src="https://streak-stats.demolab.com?user=kirilov07&theme=dark&hide_border=true" alt="GitHub streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=kirilov07&theme=dark&hide_border=true)
 
 </div>
+
+---
+
+## 🚀 Featured Projects:
+
+| Project | Description |
+|---------|-------------|
+| [S.Y.N.A.P.S.E](https://github.com/kirilov07/S.Y.N.A.P.S.E) | 🚧 AI aromatherapy system — Jetson Orin Nano + Arduino Mega, YOLOv8 + DeepFace, 8 diffusers, 5 operating modes |
+
+> More projects coming — currently migrating source from hardware devices.
 
 ---
 
@@ -110,6 +107,6 @@ Currently finishing the Applied Programmer track, graduating 2026. I'm not a gen
 
 **Open to embedded/AI roles, internships, and collaboration**
 
-[![Email](https://img.shields.io/badge/Get%20in%20touch-kikokirilov207%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kikokirilov207@gmail.com)
+[![Gmail](https://img.shields.io/badge/Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kikokirilov207@gmail.com)
 
 </div>
