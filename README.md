@@ -141,6 +141,9 @@ Currently finishing the Applied Programmer track, graduating 2026. I'm not a gen
 | [cpp-data-structures](https://github.com/kirilov07/cpp-data-structures) | Core data structures from scratch — linked list, BST, heap, hash map, graph with BFS/DFS/Dijkstra |
 | [design-patterns-cpp](https://github.com/kirilov07/design-patterns-cpp) | C++ design patterns with embedded context — state machine, observer, command, factory |
 | [serial-dashboard](https://github.com/kirilov07/serial-dashboard) | Live terminal dashboard for Arduino serial data — sparklines, min/max, auto-reconnect |
+| [fastapi-sensor-api](https://github.com/kirilov07/fastapi-sensor-api) | REST API for IoT sensor data — FastAPI, PostgreSQL, JWT auth, Docker, CI/CD with pytest + ruff |
+| [mqtt-iot-bridge](https://github.com/kirilov07/mqtt-iot-bridge) | MQTT ↔ REST bridge — ESP32 publishes sensor data via MQTT, Python subscribes and forwards to API |
+| [github-actions-embedded](https://github.com/kirilov07/github-actions-embedded) | Reusable CI/CD workflows — Arduino compile, C++ build, Python CI, Docker multi-platform, Jetson SSH deploy |
 | [leetcode](https://github.com/kirilov07/leetcode) | Problems 1–100 solved in Python, C#, and C++ |
 | [ai-vision](https://github.com/kirilov07/ai-vision) | Real-time object detection, emotion recognition, and image processing — YOLOv8, DeepFace, OpenCV |
 
