@@ -83,9 +83,9 @@ Currently finishing the Applied Programmer track, graduating 2026. I'm not a gen
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirilov07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=kirilov07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirilov07&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kirilov07&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kirilov07&theme=dark&hide_border=true)
 
