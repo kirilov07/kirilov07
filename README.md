@@ -4,7 +4,7 @@
 
 ### Embedded Systems & AI Engineer — building intelligent hardware
 
-📍 Bobov Dol, Bulgaria &nbsp;|&nbsp; 🎓 Graduating 2026
+📍 Dupnica, Bulgaria &nbsp;|&nbsp; 🎓 Graduating 2026
 
 </div>
 
