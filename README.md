@@ -98,6 +98,10 @@ Currently finishing the Applied Programmer track, graduating 2026. I'm not a gen
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirilov07&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" alt="Top languages" />
 
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=kirilov07&theme=dark&hide_border=true" alt="GitHub streak" />
+
 </div>
 
 ---
