@@ -105,8 +105,9 @@ Currently finishing the Applied Programmer track, graduating 2026. I'm not a gen
 | Project | Description |
 |---------|-------------|
 | [S.Y.N.A.P.S.E](https://github.com/kirilov07/S.Y.N.A.P.S.E) | 🚧 AI aromatherapy system — Jetson Orin Nano + Arduino Mega, YOLOv8 + DeepFace, 8 diffusers, 5 operating modes |
-
-> More projects coming — currently migrating source from hardware devices.
+| [ai-vision](https://github.com/kirilov07/ai-vision) | Real-time object detection, emotion recognition, and image processing — YOLOv8, DeepFace, OpenCV |
+| [arduino-projects](https://github.com/kirilov07/arduino-projects) | Hands-on embedded systems — ultrasonic, DHT22, servo, relay, IR sensor with code and wiring docs |
+| [leetcode](https://github.com/kirilov07/leetcode) | Algorithm and data structure solutions in Python and C# |
 
 ---
 
