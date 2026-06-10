@@ -85,6 +85,20 @@ Currently finishing the Applied Programmer track, graduating 2026. I'm not a gen
 
 ![SoftUni](https://img.shields.io/badge/SoftUni-C%23%20Basic-8A2BE2?style=for-the-badge)
 ![SoftUni](https://img.shields.io/badge/SoftUni-C%23%20Fundamentals-8A2BE2?style=for-the-badge)
+![NVIDIA DLI](https://img.shields.io/badge/NVIDIA%20DLI-AI%20on%20Jetson%20Nano%20(in%20progress)-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+<details>
+<summary><b>In progress &amp; planned</b></summary>
+
+| Certification | Issuer | Status |
+|---------------|--------|--------|
+| Getting Started with AI on Jetson Nano | NVIDIA DLI | 🟡 In progress — Expected Summer 2026 |
+| Jetson AI Specialist | NVIDIA | ⏳ Planned (submitting S.Y.N.A.P.S.E as project) |
+| Introduction to IoT | Cisco NetAcad | ⏳ Planned |
+| Python Essentials 1 & 2 | Cisco / OpenEDG | ⏳ Planned |
+| Introduction to Isaac Sim | NVIDIA | ⏳ Planned |
+
+</details>
 
 ---
 
@@ -129,6 +143,18 @@ Currently finishing the Applied Programmer track, graduating 2026. I'm not a gen
 ![Snake animation](https://raw.githubusercontent.com/kirilov07/kirilov07/output/github-snake-dark.svg)
 
 </div>
+
+---
+
+## 🌟 Spotlight — S.Y.N.A.P.S.E
+
+> **AI-driven aromatherapy with edge inference and hardware control** &nbsp;·&nbsp; [→ View repo](https://github.com/kirilov07/S.Y.N.A.P.S.E)
+
+A real-time system that runs **concurrent multi-model AI inference** on an **NVIDIA Jetson Orin Nano** — YOLOv8n for object detection and DeepFace for emotion recognition — then drives an **Arduino Mega 2560** over a serial bridge to switch **8 individually-addressable diffusers** across 5 operating modes (manual, scenario, color, emotion, object).
+
+`Jetson Orin Nano` · `Arduino Mega 2560` · `YOLOv8n` · `DeepFace` · `OpenCV + GStreamer` · `FastAPI` · `pyserial` · `CUDA`
+
+> 🚧 _Source code currently in transfer from the device — full push coming soon. Architecture, hardware, and software design are documented in the repo._
 
 ---
 
